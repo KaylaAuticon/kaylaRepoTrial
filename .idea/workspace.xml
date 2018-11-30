@@ -2,38 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8beec037-0914-48cd-8bd3-9671d1f099c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_jaxb_impl_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetConfigs/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/public/become_a_patron_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/seed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/test/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/Authentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/Authentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetStore/target/test-classes/org/brit/tests/PetConfigs/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetStore/target/test-classes/org/brit/tests/PetTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/PetStore/target/test-classes/org/brit/tests/PetTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/PetStore/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,20 +32,23 @@
     <session id="201889425">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="HOCON" value="1" />
+          <entry key="JAVA" value="6" />
+          <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="54" />
         </counts>
       </usages-collector>
     </session>
@@ -67,25 +56,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getPetsByStatus#0;class#PetTests#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/Authentication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetConfigs/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/src/app.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetConfigs/petGet.conf">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -104,6 +112,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetConfigs/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetTests.java" />
+        <option value="$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/Authentication.java" />
       </list>
     </option>
   </component>
@@ -114,8 +125,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="63" />
+    <option name="x" value="47" />
+    <option name="y" value="23" />
     <option name="width" value="1363" />
     <option name="height" value="770" />
   </component>
@@ -162,6 +173,45 @@
               <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
               <item name="PetStore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonplaceholder-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonplaceholder-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonplaceholder-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -185,11 +235,62 @@
               <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
               <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
               <item name="PetStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="brit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaylaRepoTrial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaylaRepoTrial" type="462c0819:PsiDirectoryNode" />
+              <item name="PetStore" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="brit" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="PetConfigs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,6 +307,11 @@
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.brit.tests" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -218,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="TestNG.PetTests">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.brit.tests.HelloWorld" />
       <module name="rest-api-tests" />
@@ -264,15 +370,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PetTests.getJson" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.brit.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.brit.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.brit.tests.PetTests" />
+      <option name="METHOD_NAME" value="getJson" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="TestNG.PetTestSerializeDeserialize" />
       <item itemvalue="TestNG.PetTests" />
       <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="TestNG.PetTests.getJson" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="TestNG.PetTests" />
+        <item itemvalue="TestNG.PetTests.getJson" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="TestNG.PetTestSerializeDeserialize" />
       </list>
     </recent_temporary>
@@ -297,32 +423,42 @@
     <history-entry file="PetTests - 2018.11.30 at 11h 37m 20s.xml">
       <configuration name="PetTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="PetTests - 2018.11.30 at 11h 52m 10s.xml">
+      <configuration name="PetTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PetTests_getJson - 2018.11.30 at 14h 31m 42s.xml">
+      <configuration name="PetTests.getJson" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PetTests - 2018.11.30 at 14h 49m 11s.xml">
+      <configuration name="PetTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="63" width="1363" height="770" extended-state="0" />
+    <frame x="47" y="23" width="1363" height="770" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25738078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2611658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32890856" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32890856" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32890856" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32890856" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.329296" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.329296" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -332,23 +468,36 @@
     <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetTestSerializeDeserialize.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetTests.java">
+    <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetConfigs/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#getPetsByStatus#0;class#PetTests#0" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetStore/src/test/java/org/brit/tests/PetConfigs/petGet.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/Authentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetStore/src/main/java/org/brit/tests/jsonplaceholder-master/src/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

@@ -24,6 +24,7 @@ public class PetTests {
 
     @Test
     public void getPetsByStatus() {
+
         given()
                 .baseUri(BASE_URL)
                 .log().everything()
