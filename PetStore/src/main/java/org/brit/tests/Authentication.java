@@ -23,7 +23,8 @@ public class Authentication {
 
         return given()
                 .formParams(map)
-                .post("http://petstore.swagger.io/oauth/login?redirect_uri=http://petstore.swagger.io/o2c.html")
+               // .post("http://petstore.swagger.io/oauth/login?redirect_uri=http://petstore.swagger.io/o2c.html")
+                .post("http://jsonplaceholder.typicode.com/todos")
                 .getHeader("Location")
                 .split("#")[1].split("=")[1];
     }

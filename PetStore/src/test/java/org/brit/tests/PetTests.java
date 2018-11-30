@@ -96,57 +96,7 @@ public class PetTests {
                 .prettyPrint();
     }
 
-    @Test
-    public void addNewPet() {
-        given()
-                .baseUri(BASE_URL)
-                .log().everything()
-                .contentType(ContentType.JSON)
-                .body("{\n" +
-                        "  \"id\": 898988888,\n" +
-                        "  \"name\": \"MyLittlePet\",\n" +
-                        "  \"photoUrls\": [],\n" +
-                        "  \"tags\": [],\n" +
-                        "  \"status\": \"" + StatusEnum.pending.toString() + "\"\n" +
-                        "}")
-                .header("api_key", Authentication.Login("britka", "12345678"))
-                .post(PET_ENDPOINT);
 
-        given()
-                .baseUri(BASE_URL)
-                .log().everything()
-                .contentType(ContentType.JSON)
-                .pathParam("petId", "898988888")
-                .get(PET_ENDPOINT + "/{petId}")
-                .then()
-                .body("name", equalTo("MyLittlePet"))
-                .extract().body().jsonPath()
-                .prettyPrint();
-    }
-
-    @Test
-    public void deletePetById() {
-        given()
-                .baseUri(BASE_URL)
-                .log().everything()
-                .contentType(ContentType.JSON)
-                .header("api_key", Authentication.Login("britka", "12345678"))
-                .pathParam("petId", "898988888")
-                .expect().statusCode(200)
-                .when()
-                .delete(PET_ENDPOINT + "/{petId}");
-
-        Assert.assertEquals(
-                given()
-                .baseUri(BASE_URL)
-                .log().everything()
-                .contentType(ContentType.JSON)
-                .pathParam("petId", "898988888")
-                .get(PET_ENDPOINT + "/{petId}")
-                .then()
-                .extract().body().jsonPath().getObject("", MessageResponse.class)
-                .getMessage(), "Pet not found");
-    }
 
 
 }
