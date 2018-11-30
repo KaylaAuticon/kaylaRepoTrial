@@ -1,4 +1,4 @@
-package org.brit.tests.PetConfigs;
+package org.brit.tests;
 
 public class HelloWorld {
     public static void main(String[] args){
