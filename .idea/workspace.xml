@@ -220,11 +220,11 @@
   </component>
   <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.brit.tests.PetConfigs.HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="org.brit.tests.HelloWorld" />
       <module name="rest-api-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.brit.tests.PetConfigs.*" />
+          <option name="PATTERN" value="org.brit.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
