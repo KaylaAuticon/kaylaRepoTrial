@@ -1,14 +1,22 @@
 package org.brit.tests;
 
-import io.restassured.http.ContentType;
 import org.brit.tests.classes.StatusEnum;
 import org.testng.annotations.Test;
+
+import java.util.List;
+
+
+
+import io.restassured.http.ContentType;
+
 
 import static io.restassured.RestAssured.given;
 import static org.brit.tests.Constants.BASE_URL;
 import static org.brit.tests.actions.pets.PetsActions.PET_ENDPOINT;
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
+
+
 
 public class KaylaTests {
     @Test
@@ -58,6 +66,11 @@ public class KaylaTests {
 
     @Test
     public void deleteTest() {
+
+
+
+
+
         given()
                 .baseUri(BASE_URL)
                 .log().everything()
@@ -84,5 +97,6 @@ public class KaylaTests {
                 .extract().body().jsonPath()
                 .prettyPrint();
     }
+
 
 }
